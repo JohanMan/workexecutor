@@ -1,2 +1,2 @@
 # workexecutor
-用Handler机制代替AsyncTask功能
+用HandlerThread和Handler组合代替AsyncTask功能
