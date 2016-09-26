@@ -2,14 +2,6 @@
 用HandlerThread和Handler组合代替AsyncTask功能
 
 ## 使用方法
-package com.johan.workexecutor;
-
-import android.os.Bundle;
-import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
-
-public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -60,5 +52,4 @@ public class MainActivity extends AppCompatActivity {
         }, 2000);
 
     }
-}
 
