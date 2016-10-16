@@ -1,5 +1,5 @@
 # workexecutor
-用HandlerThread和Handler组合代替AsyncTask功能
+用HandlerThread和Handler组合实现AsyncTask类似的功能
 
 ## 使用方法
 
